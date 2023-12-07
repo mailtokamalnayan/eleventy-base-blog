@@ -1,1 +1,14 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "blog",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "feed/",
+    "about/",
+    "sitemap/",
+    "404"
+  ],
+  "newLinkFormat": "relative",
+  "promptDelete": false
+}
