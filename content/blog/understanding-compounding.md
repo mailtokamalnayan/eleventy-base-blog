@@ -1,8 +1,7 @@
 ---
 title: Understanding compounding
 slug: understanding-compounding
-date_published: 2023-12-06T18:16:07.000Z
-date_updated: 2023-12-06T18:16:07.000Z
+date: 2023-11-25T18:16:07.000Z
 ---
 
 Understanding compounding is one of the most challenging tasks for the human mind to comprehend. 

@@ -1,8 +1,7 @@
 ---
 title: Most famous person I’ve ever met
 slug: most-famous-person-ive-ever-met
-date_published: 2023-12-06T18:13:03.000Z
-date_updated: 2023-12-06T18:13:03.000Z
+date: 2023-12-02T18:13:03.000Z
 ---
 
 When I was in school, I had the opportunity to meet multiple politicians at once who had come to inaugurate my school. It was the first of its-kind school in the entire state, so there were many delegates who made their presence at the time of innaguration.

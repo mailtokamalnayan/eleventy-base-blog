@@ -1,8 +1,7 @@
 ---
 title: On the other side of stress
 slug: on-the-other-side-of-stress
-date_published: 2023-12-06T18:15:21.000Z
-date_updated: 2023-12-06T18:15:21.000Z
+date: 2023-11-29T18:15:21.000Z
 ---
 
 Apparently, most of the modern-day advancement has come from the time of adversity. And from the entity that’s perpetually in the state of fighting adversity – the armed forces. 

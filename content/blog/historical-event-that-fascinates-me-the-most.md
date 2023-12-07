@@ -1,8 +1,7 @@
 ---
 title: Historical event that fascinates me the most
 slug: historical-event-that-fascinates-me-the-most
-date_published: 2023-12-06T18:02:50.000Z
-date_updated: 2023-12-06T18:02:50.000Z
+date: 2023-12-05T18:02:50.000Z
 ---
 
 The development of agriculture was the most historical event for me. Even more fascinating was that it was developed independently all over the world. 

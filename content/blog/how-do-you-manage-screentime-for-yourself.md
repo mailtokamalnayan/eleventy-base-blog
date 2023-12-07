@@ -1,8 +1,7 @@
 ---
 title: How do you manage screentime for yourself?
 slug: how-do-you-manage-screentime-for-yourself
-date_published: 2023-12-06T18:09:59.000Z
-date_updated: 2023-12-06T18:09:59.000Z
+date: 2023-12-04T18:09:59.000Z
 ---
 
 I’ve been on and off the wagon on managing screentime for me for the last 5 years or so, especially after the fact that these websites have become so addictive in nature. When I think back at **those** simpler times, most of our time was spent either in chatrooms or in the forums. There wasn’t much social credit to be earned, so things were simpler.

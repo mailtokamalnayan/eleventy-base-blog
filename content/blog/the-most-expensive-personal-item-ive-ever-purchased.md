@@ -1,8 +1,7 @@
 ---
 title: The most expensive personal item I’ve ever purchased
 slug: the-most-expensive-personal-item-ive-ever-purchased
-date_published: 2023-12-06T18:12:11.000Z
-date_updated: 2023-12-06T18:12:11.000Z
+date: 2023-11-26T18:12:11.000Z
 ---
 
 If we remove the home and car (neither of which I own), then the next most expensive purchase would definitely be my Leica Q2. It’s not surprising that before the Q2, the most expensive purchase by me was still the Leica Q.

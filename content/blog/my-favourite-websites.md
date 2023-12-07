@@ -1,8 +1,7 @@
 ---
 title: My favourite websites
 slug: my-favourite-websites
-date_published: 2023-12-06T18:08:58.000Z
-date_updated: 2023-12-06T18:08:58.000Z
+date: 2023-11-30T18:08:58.000Z
 ---
 
 It’s not an easy question to answer, but let's try my favorite websites recently apart from the usual suspects, Twitter and Instagram. 

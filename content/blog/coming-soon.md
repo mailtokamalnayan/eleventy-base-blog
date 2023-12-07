@@ -1,8 +1,7 @@
 ---
 title: Two articles that I often keep coming back to
-slug: coming-soon
-date_published: 2023-12-06T17:43:23.000Z
-date_updated: 2023-12-06T18:05:40.000Z
+slug: articles-that-I-often-keep-coming-back-to
+date: 2023-12-06
 tags: News
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Lifestyle inflation
 slug: lifestyle-inflation
-date_published: 2023-12-06T18:11:31.000Z
-date_updated: 2023-12-06T18:11:31.000Z
+date: 2023-12-03T18:11:31.000Z
 ---
 
 When food, shelter, and clothes are taken care of, it is very easy to get hung up on trivial things. While taking the every **next** leap, the previous leap becomes our base or so-called the “basic.” So how do we learn the skill of getting the goalpost to stop moving?

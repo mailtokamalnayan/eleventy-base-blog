@@ -1,8 +1,7 @@
 ---
 title: Rules for making sense of the world
 slug: rules-for-making-sense-of-the-world
-date_published: 2023-12-06T18:13:39.000Z
-date_updated: 2023-12-06T18:13:39.000Z
+date: 2023-11-28T18:13:39.000Z
 ---
 
 **Need for certainty is the greatest disease of mind.** We all crave for certainty because it calms us down. Gives us hope. But world works in weird and inexplicable ways. One of the [Nobel Prize winners in mathematic](https://en.m.wikipedia.org/wiki/John_Forbes_Nash_Jr.)s also believed that aliens were recruiting him. Embrace those uncertainty and include those unknowns in the calculations. 

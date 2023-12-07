@@ -1,8 +1,7 @@
 ---
 title: My favourite subject in school
 slug: my-favourite-subject-in-school
-date_published: 2023-12-06T18:10:55.000Z
-date_updated: 2023-12-06T18:10:55.000Z
+date: 2023-12-01T18:10:55.000Z
 ---
 
 Mathematics was my least favorite. Followed by biology and chemistry. Didn’t care much for physics either.

@@ -1,8 +1,7 @@
 ---
 title: The connundrum
 slug: the-connundrum
-date_published: 2023-12-06T18:14:28.000Z
-date_updated: 2023-12-06T18:14:28.000Z
+date: 2023-11-27T18:14:28.000Z
 ---
 
 Carl Jung had a theory called enantiodromia, which means an excess of something gives rise to its opposite.
