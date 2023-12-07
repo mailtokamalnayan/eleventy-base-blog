@@ -1,6 +1,6 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: "Matter", -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
 		Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
 		Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
@@ -93,13 +93,14 @@ a[href]:active {
 
 main {
 	padding: 1rem;
+	padding-bottom: 8em;
 }
 main :first-child {
 	margin-top: 0;
 }
 
 header {
-	border-bottom: 1px dashed var(--color-gray-20);
+	/* border-bottom: 1px dashed var(--color-gray-20); */
 }
 header:after {
 	content: "";
@@ -150,11 +151,11 @@ header {
 	gap: 1em 0.5em;
 	flex-wrap: wrap;
 	align-items: center;
-	padding: 1em;
+	padding: 4em 1em 2em 1em;
 }
 .home-link {
 	font-size: 1em; /* 16px /16 */
-	font-weight: 700;
+	/* font-weight: 700; */
 	margin-right: 2em;
 }
 .home-link:link:not(:hover) {
