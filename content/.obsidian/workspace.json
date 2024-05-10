@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2023-12-12.md",
+                "file": "blog/2024-05-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2023-12-12.md",
+                "file": "blog/2024-05-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2023-12-12.md",
+                "file": "blog/2024-05-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2023-12-12.md"
+                "file": "blog/2024-05-11.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "ded561c11c15a1a2",
   "lastOpenFiles": [
     "blog/2023-12-12.md",
+    "blog/2024-05-11.md",
     "blog/Articles that I keep coming back to.md",
     "blog/2023-12-07.md",
     "blog/understanding-compounding.md",
